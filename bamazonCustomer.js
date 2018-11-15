@@ -1,0 +1,1 @@
+//app displays all products for sale
